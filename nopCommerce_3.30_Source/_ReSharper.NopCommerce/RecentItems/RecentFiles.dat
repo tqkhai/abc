@@ -1,0 +1,37 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="CCD7F2C9-6A2C-4CF0-8E89-076B8FC0F144/f:SqlCeDataProvider.cs" caret="0" fromTop="0" />
+    <File id="CCD7F2C9-6A2C-4CF0-8E89-076B8FC0F144/f:Extensions.cs" caret="0" fromTop="0" />
+    <File id="CCD7F2C9-6A2C-4CF0-8E89-076B8FC0F144/d:Initializers/f:SqlCeInitializer.cs" caret="2196" fromTop="14" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:ICategoryTemplateService.cs" caret="0" fromTop="0" />
+    <File id="152C761A-DD2E-4C1F-AF89-DFB2547A3BCA/d:Controllers/f:ActivityLogController.cs" caret="1321" fromTop="12" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:PriceCalculationService.cs" caret="22782" fromTop="17" />
+    <File id="6BDA8332-939F-45B7-A25E-7A797260AE59/d:Caching/f:ICacheManager.cs" caret="137" fromTop="5" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:ShoppingCartController.cs" caret="5597" fromTop="17" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:NewsController.cs" caret="3166" fromTop="17" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:PollController.cs" caret="1285" fromTop="17" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:TopicController.cs" caret="1391" fromTop="22" />
+    <File id="6BDA8332-939F-45B7-A25E-7A797260AE59/d:Caching/f:Extensions.cs" caret="718" fromTop="24" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:ProductTagService.cs" caret="1664" fromTop="7" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:ProductAttributeService.cs" caret="4913" fromTop="25" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:CategoryService.cs" caret="4734" fromTop="17" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:ManufacturerService.cs" caret="4050" fromTop="28" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Extensions/f:HtmlExtensions.cs" caret="12041" fromTop="21" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Caching/f:ClearCacheTask.cs" caret="436" fromTop="16" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:CountryController.cs" caret="1218" fromTop="27" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:CommonController.cs" caret="6147" fromTop="17" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:BlogController.cs" caret="3250" fromTop="17" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:ProductService.cs" caret="5940" fromTop="17" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:CatalogController.cs" caret="9335" fromTop="17" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:CompareProductsService.cs" caret="3356" fromTop="33" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:DownloadController.cs" caret="1187" fromTop="31" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:BackwardCompatibility2XController.cs" caret="2332" fromTop="33" />
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:BackwardCompatibility1XController.cs" caret="6141" fromTop="33" />
+    <File id="210541AD-F659-47DA-8763-16F36C5CD2F4/d:Catalog/f:IProductService.cs" caret="922" fromTop="11" />
+    <File id="152C761A-DD2E-4C1F-AF89-DFB2547A3BCA/d:Views/d:Common/f:Maintenance.cshtml" caret="352" fromTop="12" />
+    <File id="152C761A-DD2E-4C1F-AF89-DFB2547A3BCA/f:Web.config" caret="512" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4F1F649C-1020-45BE-A487-F416D9297FF3/d:Controllers/f:ShoppingCartController.cs" caret="3301" fromTop="18" />
+  </RecentEdits>
+</RecentFiles>
